@@ -1,0 +1,28 @@
+//Colors
+Azul 			: 0B183B
+Vermelho 	: EC1C24
+Amarelo 		: FFDD15
+Areia 		: F6F3EA
+Verde 		: 00A14B
+
+
+//Tipografia
+Font-family 	: Poppins
+
+Desktop
+Header 		: 40 - 48px
+Title 			: 34 - 38px
+Subtitle 		: 21 - 24px
+Body 		: 20 - 21px
+Details 		: 16 - 18px
+Smallest 		: 16px
+
+Mobile
+Header 		: 32 - 38px
+Title 			: 24 - 28px
+Subtitle 		: 18 - 20px
+Body 		:16 - 18px
+Details 		: 12 - 14px
+Smallest 		: 12px
+
+
